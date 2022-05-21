@@ -1,0 +1,8 @@
+[alias]
+
+	ll = log --oneline -15
+  st = status
+
+[help]
+
+	autocorrect = 20
