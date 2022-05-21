@@ -1,7 +1,7 @@
 [alias]
 
 	ll = log --oneline -15
-  st = status
+	st = status
 
 [help]
 
